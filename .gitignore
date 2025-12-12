@@ -1,0 +1,9 @@
+# Virtual environment
+venv/
+
+
+__pycache__/
+*.pyc
+
+# Ignore all files in model directory except README or config if needed
+model/*
