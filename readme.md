@@ -19,7 +19,7 @@ It combines:
 
 ## **Dataset**
 
-- Flickr30k: 30,000 images
+- Flickr30k: 31,783 images
 - Each image has 5 captions
 
 ---
@@ -134,11 +134,19 @@ http://127.0.0.1:5000
 - Optimizer: Adam
 - Batch Size: 32
 - Epochs: 25
+- Training images: 28,604
 - Total training time: 2 hours 50 minutes 55 seconds
 
 ### **Training**
 
 ![Training](./images/training.png)
+
+---
+
+## **Training Configuration**
+
+- Testing images: 3179
+- Testing time: 40 minutes 51 seconds
 
 ---
 
