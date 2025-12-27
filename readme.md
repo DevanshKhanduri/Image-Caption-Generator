@@ -143,7 +143,7 @@ http://127.0.0.1:5000
 
 ---
 
-## **Training Configuration**
+## **Testing Configuration**
 
 - Testing images: 3179
 - Testing time: 40 minutes 51 seconds
